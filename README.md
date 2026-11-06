@@ -1,32 +1,41 @@
-Hi there, I'm Tran Thanh Tung 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tran+Thanh+Tung;Software+Engineering+Student;Backend+%26+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 
-🚀 Software Engineering Student & BackEnd Developer 
-💻 Passionate about building scalable web applications, system architectures, and AI solutions.
+  <p align="center">
+    🚀 Passionate about building scalable backend architectures, microservices, and interactive web applications.
+  </p>
+
+  <p align="center">
+    <a href="mailto:tranthanhtungttt10@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-tranthanhtungttt10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=thanhtungse192400&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhtungse192400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtungse192400&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,js,ts,react,tailwind,postgres,docker,git,github,vscode,idea&perline=7" alt="Tech Stack" />
 </div>
 
 ---
 
-📫 Connect with me
-- 📧 Email: **tranthanhtungttt10@gmail.com**
+### ⚡ GitHub Analytics
+
+<div align="center">
+
+  <img height="165em" src="https://streak-stats.demolab.com?user=thanhtungse192400&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thanhtungse192400&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtungse192400&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
