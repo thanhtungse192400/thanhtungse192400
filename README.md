@@ -19,7 +19,7 @@ Hi there, I'm Tran Thanh Tung 👋
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhtungse192400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,5 +28,5 @@ Hi there, I'm Tran Thanh Tung 👋
 
 ---
 
-### 📫 Connect with me
-- 📧 Email: **gamesay00@gmail.com**
+📫 Connect with me
+- 📧 Email: **tranthanhtungttt10@gmail.com**
